@@ -28,6 +28,9 @@
     "x": 0,
     "y": 4335
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -59,6 +62,23 @@
   ],
   "name": "Button/Disabled/Dashed/Large",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "49248F5D-E1F7-4673-B35E-FAE79C18FFD4_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "A1969E9F-6819-4AB6-95BC-CEE740940DB6_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "49248F5D-E1F7-4673-B35E-FAE79C18FFD4_image"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

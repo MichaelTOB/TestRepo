@@ -28,6 +28,9 @@
     "x": 220,
     "y": 6759
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -59,6 +62,13 @@
   ],
   "name": "Checkbox/Default/Hover",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "CA48CBAA-3530-482D-B2F7-1C4B5B3E18B0_stringValue"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

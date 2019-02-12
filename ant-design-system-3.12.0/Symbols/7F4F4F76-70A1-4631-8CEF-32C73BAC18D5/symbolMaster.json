@@ -28,6 +28,9 @@
     "x": 0,
     "y": 0
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -67,6 +70,13 @@
   ],
   "name": "Alert/Default/Error",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "02267632-4E45-4287-AB04-4354F3390D96_stringValue"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -28,6 +28,9 @@
     "x": 648,
     "y": 25604
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -63,6 +66,28 @@
   ],
   "name": "TimePicker/Medium/Selected",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "5311A310-2A06-418F-B33C-FCDADE26ABCA_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "5311A310-2A06-418F-B33C-FCDADE26ABCA_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "AB758B9E-F0DA-4151-A076-A3DA5B559DEF_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "97A99F4B-9DB0-4301-A430-658EC53B1109_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

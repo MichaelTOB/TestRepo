@@ -28,6 +28,9 @@
     "x": 0,
     "y": 27023
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -63,6 +66,23 @@
   ],
   "name": "Upload/_Resources/Button",
   "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "6299D26D-3460-48FB-B177-59B53FEB012D_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "A6AA4DB8-D4AA-4CF1-8173-EFDF44B5FA1D_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "6299D26D-3460-48FB-B177-59B53FEB012D_image"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

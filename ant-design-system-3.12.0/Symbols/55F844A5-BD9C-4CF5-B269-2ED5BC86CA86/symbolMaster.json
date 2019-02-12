@@ -28,6 +28,9 @@
     "x": 0,
     "y": 9408
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -63,6 +66,23 @@
   ],
   "name": "Dropdown/Button/Secondary/Large",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "950F3AD9-6A92-4F8C-8A02-C59E2F5591FE_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "950F3AD9-6A92-4F8C-8A02-C59E2F5591FE_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "93085FE5-B9EF-4F9A-BA42-61251F35FB99_stringValue"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -28,6 +28,9 @@
     "x": 604,
     "y": 22744
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -63,6 +66,13 @@
   ],
   "name": "Tabs/_Resource/Tab/Medium+Active",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "109908BF-8B63-4A8C-AA97-F20C6E1B2F43_stringValue"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

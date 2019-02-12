@@ -28,6 +28,9 @@
     "x": 552,
     "y": 23238
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -59,6 +62,8 @@
   ],
   "name": "Tabs/_Resource/VerticalTabs/Prev",
   "nameIsFixed": false,
+  "overrideProperties": [
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

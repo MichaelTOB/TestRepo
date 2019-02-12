@@ -28,6 +28,9 @@
     "x": 384,
     "y": 21093
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -55,6 +58,8 @@
   ],
   "name": "Switch/Small/On+disabled",
   "nameIsFixed": true,
+  "overrideProperties": [
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

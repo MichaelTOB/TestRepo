@@ -28,6 +28,9 @@
     "x": 0,
     "y": 23238
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -55,6 +58,13 @@
   ],
   "name": "Tabs/_Resource/VerticalTabs/Disabled",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8660C9FC-77FD-4C3D-B55A-364A7B6C54FF_stringValue"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

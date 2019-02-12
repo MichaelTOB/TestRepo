@@ -28,6 +28,9 @@
     "x": 260,
     "y": 18462
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -63,6 +66,18 @@
   ],
   "name": "Select/Small/Placeholder",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "CDE74E56-1E57-4568-9D9B-CE4B45698B53_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "9B9E0D70-C3F7-48C2-956E-D0ABEAEDFF83_stringValue"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

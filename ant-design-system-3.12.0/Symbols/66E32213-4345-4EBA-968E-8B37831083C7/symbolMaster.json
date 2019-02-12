@@ -28,6 +28,9 @@
     "x": 160,
     "y": 16422
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -55,6 +58,13 @@
   ],
   "name": "RadioButton/Medium/Option+Selected+Disabled/Middle",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "53F5CF92-836A-43B5-B60A-0B9D5FBDCBC1_stringValue"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

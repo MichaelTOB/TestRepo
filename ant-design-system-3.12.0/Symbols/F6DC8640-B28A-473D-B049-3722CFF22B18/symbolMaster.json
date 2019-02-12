@@ -28,6 +28,9 @@
     "x": 140,
     "y": 1805
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -59,6 +62,8 @@
   ],
   "name": "BackTop/Circle/Normal",
   "nameIsFixed": true,
+  "overrideProperties": [
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

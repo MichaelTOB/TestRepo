@@ -28,6 +28,9 @@
     "x": 164,
     "y": 15246
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -55,6 +58,13 @@
   ],
   "name": "RadioButton/Large/Option+Selected/Middle",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "21F7D919-6D20-485F-A461-9293738B381B_stringValue"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

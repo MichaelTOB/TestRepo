@@ -28,6 +28,9 @@
     "x": 5644,
     "y": 20373
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -67,6 +70,23 @@
   ],
   "name": "Steps/_Resource/TitleStep+Normal",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "31C5945B-B9F2-42D2-B1D1-43E10BA24FDC_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "CFAB1771-98AF-435F-9AC7-E3110FC01667_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "A9F6C3B3-0DBF-431E-80C4-825581B79500_stringValue"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

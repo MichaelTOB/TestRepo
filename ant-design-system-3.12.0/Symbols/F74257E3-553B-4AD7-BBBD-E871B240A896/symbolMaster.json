@@ -28,6 +28,9 @@
     "x": 324,
     "y": 8472
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -63,6 +66,28 @@
   ],
   "name": "DatePicker/Large/Placeholder",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "5163AA90-1FBB-47E3-94EA-E8D6914F87C8_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "5163AA90-1FBB-47E3-94EA-E8D6914F87C8_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "FE3DDA12-247B-49A0-9DCF-840E50851C06_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "085F03E5-DC7D-44DF-B6AE-A1D202F6DE0D_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

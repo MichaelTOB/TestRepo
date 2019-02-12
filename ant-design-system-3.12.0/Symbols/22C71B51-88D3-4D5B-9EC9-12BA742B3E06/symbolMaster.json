@@ -28,6 +28,9 @@
     "x": 136,
     "y": 22498
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -63,6 +66,8 @@
   ],
   "name": "Tabs/_Resource/Slide/Prev",
   "nameIsFixed": true,
+  "overrideProperties": [
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

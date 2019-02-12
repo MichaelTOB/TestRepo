@@ -28,6 +28,9 @@
     "x": 0,
     "y": 27255
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -55,6 +58,23 @@
   ],
   "name": " _Resources/Modal/Primary button",
   "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "D65A139F-35A9-4652-ABD5-1DD43FF4AB20_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "D65A139F-35A9-4652-ABD5-1DD43FF4AB20_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "A279E1AA-5C6D-4B8C-8060-FF324BA73FF6_stringValue"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

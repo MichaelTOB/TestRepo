@@ -28,6 +28,9 @@
     "x": 7384,
     "y": 20373
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -63,6 +66,23 @@
   ],
   "name": "Steps/_Resource/VerticalStep+Number+Small+End",
   "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "255AF47D-B333-4CE1-9631-939D6894C7F4_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B08C3BCE-4F5F-4710-A348-8357E6FC334C_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "D886FE55-FEFA-4D57-ADD7-D3613049C2A6_stringValue"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

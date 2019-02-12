@@ -28,6 +28,9 @@
     "x": 0,
     "y": 15726
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -55,6 +58,13 @@
   ],
   "name": "RadioButton/Medium/Option+Normal/Left",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8700BF28-F3B2-4E8A-9D37-48631183DAE5_stringValue"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

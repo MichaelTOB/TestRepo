@@ -28,6 +28,9 @@
     "x": 537,
     "y": 11239
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -75,6 +78,28 @@
   ],
   "name": "Modal/Confirmation/Delete",
   "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "1EB8E261-E506-43B7-BC2E-5B918547CF8F_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "29866B6B-E89A-4589-86BC-E58054E5D20A_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "F7E5CD5C-ECD5-4A16-9620-07CC8D187C91_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "A2AB2FCD-1438-46F8-B506-9637A88ABC70_stringValue"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

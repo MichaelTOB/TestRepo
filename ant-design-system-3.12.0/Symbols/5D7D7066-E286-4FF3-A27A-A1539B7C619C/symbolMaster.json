@@ -28,6 +28,9 @@
     "x": 296,
     "y": 13630
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -59,6 +62,8 @@
   ],
   "name": "Progress Bar/Circular/Mini/Success",
   "nameIsFixed": true,
+  "overrideProperties": [
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

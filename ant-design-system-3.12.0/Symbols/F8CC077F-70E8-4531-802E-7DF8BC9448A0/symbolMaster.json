@@ -28,6 +28,9 @@
     "x": 520,
     "y": 22258
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -71,6 +74,13 @@
   ],
   "name": "Tabs/_Resource/CardTabs+Operation/Medium+Selected",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "F1AE5A6A-D46F-4953-A583-B80E10E0C450_stringValue"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

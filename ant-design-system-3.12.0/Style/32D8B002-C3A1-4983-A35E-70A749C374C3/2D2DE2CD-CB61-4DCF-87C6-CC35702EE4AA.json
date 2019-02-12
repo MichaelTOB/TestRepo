@@ -20,6 +20,9 @@
     "x": 2600,
     "y": 244
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasClickThrough": true,
   "hasClippingMask": false,
   "isFixedToViewport": false,

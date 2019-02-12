@@ -28,6 +28,9 @@
     "x": 488,
     "y": 27487
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -55,6 +58,8 @@
   ],
   "name": "_Resources/Modal/Icon/Warning",
   "nameIsFixed": false,
+  "overrideProperties": [
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

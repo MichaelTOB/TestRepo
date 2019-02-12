@@ -28,6 +28,9 @@
     "x": 1578,
     "y": 20373
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -63,6 +66,8 @@
   ],
   "name": "Steps/_Resource/Icon1+Finished",
   "nameIsFixed": true,
+  "overrideProperties": [
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

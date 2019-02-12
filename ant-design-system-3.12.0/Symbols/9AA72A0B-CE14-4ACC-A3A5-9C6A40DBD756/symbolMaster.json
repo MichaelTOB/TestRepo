@@ -28,6 +28,9 @@
     "x": 416,
     "y": 9168
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -59,6 +62,23 @@
   ],
   "name": "Dropdown/Button/Primary/Small",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "4D4AE364-8B94-48FC-B2BA-ADAA49678F42_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "4AEE532F-02A9-4801-A215-AB7582FA0835_image"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "4AEE532F-02A9-4801-A215-AB7582FA0835_layerStyle"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

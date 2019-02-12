@@ -27,6 +27,9 @@
     "x": 9515,
     "y": -1334
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,

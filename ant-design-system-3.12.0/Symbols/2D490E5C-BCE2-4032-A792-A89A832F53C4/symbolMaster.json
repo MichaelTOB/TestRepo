@@ -28,6 +28,9 @@
     "x": 0,
     "y": 24142
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -75,6 +78,38 @@
   ],
   "name": "Tag/Hot Tags/Default",
   "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "B3A9C133-42D8-435E-B136-A26C77A9E7E1_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "F65540A1-239B-4F77-AF21-DBF3C0DE2329_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "CD65BB67-C682-46C3-90AC-2FFBE7D0E5D4_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "FF85046B-E71A-44CE-B5C4-1B93360AD637_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "238A3792-2254-46BA-9ED8-43514A0F49F2_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "463AFFBA-3E8E-4F53-B2B7-4405A7CA50F1_symbolID"
+    }
+  ],
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

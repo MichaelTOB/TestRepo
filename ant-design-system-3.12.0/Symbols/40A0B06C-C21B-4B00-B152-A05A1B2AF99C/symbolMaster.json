@@ -28,6 +28,9 @@
     "x": 1056,
     "y": 2727
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -55,6 +58,8 @@
   ],
   "name": "Badge/Status/_icon+success",
   "nameIsFixed": false,
+  "overrideProperties": [
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

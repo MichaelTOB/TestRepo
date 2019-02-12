@@ -28,6 +28,9 @@
     "x": 0,
     "y": 21532
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
@@ -55,6 +58,23 @@
   ],
   "name": "Tabs/DefaultTabs",
   "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C6677A97-831E-45DD-98A4-306189D683A0_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "F3082B73-C8A2-4575-8ACB-F419C1C29F6C_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C656B170-0EBA-4129-B01A-7886676930F3_symbolID"
+    }
+  ],
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
