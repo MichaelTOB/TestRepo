@@ -1,0 +1,93 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 1197,
+  "clippingMaskMode": 0,
+  "do_objectID": "6C842882-C4E3-45E5-925E-2F5F581D0476",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 104,
+    "width": 604,
+    "x": 704,
+    "y": 240
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "C085B627-4342-4F19-91A8-7E2BF10EE0B5"
+    },
+    {
+      "class": "text",
+      "id": "D749C2D3-A07A-414E-A47B-66618F9C5D18"
+    },
+    {
+      "class": "text",
+      "id": "DDD0BE61-54CB-43C5-9349-621F321F22DF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CFFAFC8B-672F-4957-9189-7BA8FA5B5B67"
+    },
+    {
+      "class": "group",
+      "id": "A998C463-DF5D-403F-B5F8-1AAC5B95B832"
+    }
+  ],
+  "name": "Alert/Large/Info",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C5A0B7E2-F2BF-4B20-8B73-BBD929A7AE18",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

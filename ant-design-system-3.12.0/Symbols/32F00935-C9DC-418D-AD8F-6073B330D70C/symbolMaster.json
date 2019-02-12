@@ -1,0 +1,97 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 1164,
+  "clippingMaskMode": 0,
+  "do_objectID": "32F00935-C9DC-418D-AD8F-6073B330D70C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 162,
+    "width": 384,
+    "x": 1024,
+    "y": 12155
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "C8933757-B187-49C8-9708-91B966D8152D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "587EE7BD-6AC7-426D-A778-36A04030FD76"
+    },
+    {
+      "class": "text",
+      "id": "D1F159F1-9058-46FD-8441-3DC8BCFA41A0"
+    },
+    {
+      "class": "text",
+      "id": "A3A205D5-0AB9-447E-B40C-C19DE4DBB6C5"
+    },
+    {
+      "class": "group",
+      "id": "F1735B2A-95B8-420A-8DF5-294440A44F4A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D1D2D681-BBE2-4D50-8F5C-093F43426014"
+    }
+  ],
+  "name": "Notification/Operation",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A4A8C622-19B2-468B-AD63-A94B4604BBAB",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

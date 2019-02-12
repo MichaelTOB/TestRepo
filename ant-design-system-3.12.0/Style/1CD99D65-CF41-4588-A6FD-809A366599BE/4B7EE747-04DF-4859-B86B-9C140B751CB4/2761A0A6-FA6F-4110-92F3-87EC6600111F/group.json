@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "2761A0A6-FA6F-4110-92F3-87EC6600111F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 21,
+    "width": 21,
+    "x": 2,
+    "y": 2
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "AAE17868-C8A9-4FE4-A815-66698845F0A3"
+    },
+    {
+      "class": "shapePath",
+      "id": "655A3C3E-398B-4150-8F05-6DFA7600ABFC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "254EEBCC-F3E1-4A57-A5AA-633212294C00"
+    },
+    {
+      "class": "shapePath",
+      "id": "45582A14-07C5-4762-890C-6F2143DBE240"
+    }
+  ],
+  "name": "contacts",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
